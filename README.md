@@ -1,2 +1,0 @@
-# MyPublicRepo
-All Shared apps
